@@ -1,0 +1,15 @@
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.exe
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.deps.json
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.runtimeconfig.json
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.runtimeconfig.dev.json
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.dll
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\bin\Debug\netcoreapp3.1\Lesson2Task1.pdb
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.csprojAssemblyReference.cache
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.Form1.resources
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.csproj.GenerateResource.cache
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.AssemblyInfoInputs.cache
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.AssemblyInfo.cs
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.csproj.CoreCompileInputs.cache
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.dll
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.pdb
+C:\Users\lebedenko\source\repos\Lesson2Task1\Lesson2Task1\obj\Debug\netcoreapp3.1\Lesson2Task1.genruntimeconfig.cache
